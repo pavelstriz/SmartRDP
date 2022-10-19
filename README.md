@@ -4,7 +4,7 @@ This program is intended to simplify work of administrators. <br>
 Allows:<br>
 -creation RDP records of individual users in the company
 
--creation groups to unite users based on job position
+-creation groups to unite users based on their job position
 
 -access to the VNC server (default port 5900)
 
