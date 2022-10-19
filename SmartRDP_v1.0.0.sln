@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRDP_v1.0.0", "SmartRDP_v1.0.0\SmartRDP_v1.0.0.csproj", "{DE56F183-636A-4958-8A64-80CCAE8A9ED0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{7E88C4A1-7D10-4730-88ED-110B0EC23EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE56F183-636A-4958-8A64-80CCAE8A9ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE56F183-636A-4958-8A64-80CCAE8A9ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE56F183-636A-4958-8A64-80CCAE8A9ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE56F183-636A-4958-8A64-80CCAE8A9ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E88C4A1-7D10-4730-88ED-110B0EC23EA5}.Debug|Any CPU.ActiveCfg = Debug
+		{7E88C4A1-7D10-4730-88ED-110B0EC23EA5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6950114-DCA1-4995-8419-28B7A82B3BF9}
+	EndGlobalSection
+EndGlobal
