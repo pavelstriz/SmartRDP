@@ -15,3 +15,7 @@ Allows:<br>
 -export saved records in bookmarks to .xlsx (requires MS Excel)
 
 -import .xlsx documents with pre-saved users (requires MS Excel)
+
+![SmartRDP2](https://github.com/pavelstriz/SmartRDP/assets/116072652/efb3b710-a6b4-4e13-ba37-e8877b6e9eff)
+
+![SmartRDP1](https://github.com/pavelstriz/SmartRDP/assets/116072652/c82642cf-b56f-4e98-a8ce-b544407483c0)
