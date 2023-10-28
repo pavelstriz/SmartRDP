@@ -1,20 +1,20 @@
 # SmartRDP
 
-This program is intended to simplify work of administrators. <br>
-Allows:<br>
--creation RDP records of individual users in the company
+This software streamlines administrators tasks by providing a range of features:
 
--creation groups to unite users based on their job position
+-Individual user RDP record creation within the company.
 
--access to the VNC server (default port 5900)
+-Formation of user groups, facilitating organization based on job roles.
 
--quick access to the user's remote desktop using the tray bar
+-Convenient access to the VNC server (default port 5900).
 
--display last remote desktop connection and availability of port 3389 (RDP)
+-Swift user remote desktop access through the tray bar.
 
--export saved records in bookmarks to .xlsx (requires MS Excel)
+-Display of the latest remote desktop connections and the availability status of port 3389 (RDP).
 
--import .xlsx documents with pre-saved users (requires MS Excel)
+-Exporting saved records as bookmarks to .xlsx files (MS Excel required).
+
+-Importing .xlsx documents containing pre-saved user data (MS Excel required).
 
 ![SmartRDP2](https://github.com/pavelstriz/SmartRDP/assets/116072652/efb3b710-a6b4-4e13-ba37-e8877b6e9eff)
 
